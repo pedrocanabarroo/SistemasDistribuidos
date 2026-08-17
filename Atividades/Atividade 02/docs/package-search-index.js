@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"exercicio1.app"},{"l":"exercicio1.controller"},{"l":"exercicio1.model"},{"l":"exercicio1.view"},{"l":"exercicio2.app"},{"l":"exercicio2.controller"},{"l":"exercicio2.model"},{"l":"exercicio2.view"}];updateSearchResults();

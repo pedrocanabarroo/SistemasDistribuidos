@@ -1,0 +1,8 @@
+=== SISTEMA DE CAIXA CENTRALIZADO ===
+Caixas: 5
+Fichas por caixa: 1000
+Valor da ficha: R$ 10.00
+
+Saldo final: R$ 50000.00
+Saldo esperado: R$ 50000.00
+Resultado correto: o saldo permaneceu consistente.

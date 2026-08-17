@@ -1,0 +1,10 @@
+=== RELAT?RIO DE VENDAS POR FILIAL ===
+Filiais: 4
+Registros por filial: 10000
+
+Filial-1 -> R$ 2,766,778
+Filial-2 -> R$ 2,740,950
+Filial-3 -> R$ 2,747,721
+Filial-4 -> R$ 2,736,914
+
+Faturamento total das filiais: R$ 10,992,363
