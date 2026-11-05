@@ -336,7 +336,6 @@ Em um sistema distribuído, processos ou nós muitas vezes precisam coordenar su
         - Exclusão mútua - lock ou relógio ou eleição
   - Pool de Threads
   - **Atividades:**
-    - [Atividades 24-08 Andrisa-S](https://github.com/Andrisa-S/SistemasDistribuidosUFN/blob/d2b6c439cbe4afff572f214ea4a2ef414f6fa3c9/Atividades24-08.md)
     - Pesquisar, compilar e disponibilizar nos githubs pessoais sobre Relógios Físicos e Lógicos. Exclusão Mútua e Eleição
     - Pesquisar, compilar e exemplificar sobre a teoria de pool de threads
 
@@ -533,7 +532,7 @@ Em um sistema distribuído, processos ou nós muitas vezes precisam coordenar su
 
 ### Desafio telefonia
 - Desafio feito anteriormente na disciplina de Pesquisa e Ordenação com HashMap, desmembrar e refazer em sistemas distribuídos
-- [Meu código](https://github.com/Andrisa-S/PesquisaEOrdenacaoUFN/tree/main/DesafioTelefonia), [Código professor](https://github.com/alexandrezamberlan/pesquisa_ordenacao/tree/master/__aulaPratica/Telefonia)
+[Código professor](https://github.com/alexandrezamberlan/pesquisa_ordenacao/tree/master/__aulaPratica/Telefonia)
 - Fazer com estrutura cliente-servidor
   - Base.txt
   - Gráfico ou não
