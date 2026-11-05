@@ -2,7 +2,7 @@
 
 --------------------
 ## Semana 1 - 27-31/07/26
-- **Introdução** - [Introdução - Andrisa-S](https://github.com/Andrisa-S/SistemasDistribuidosUFN/blob/4d2caadf0f1e9fd2f45835d429ac94ac958c87a4/Introducao.md)
+
 - **Arquiteturas de Sistemas:**
   1) Cliente-Servidor
      - Modelo TCP/IP (4 camadas) => Prático
